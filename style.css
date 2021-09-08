@@ -28,7 +28,7 @@ h1.title:hover{
 text-decoration: overline;
 text-transform: lowercase;
 color: white;
-transition: ease-in-out .99s;
+transition: ease-in-out 9ms;
 
 }
 .navigation{
